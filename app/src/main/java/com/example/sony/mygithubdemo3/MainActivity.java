@@ -19,5 +19,8 @@ MainActivity extends AppCompatActivity {
         Toast.makeText(this, "hello world", Toast.LENGTH_SHORT).show();
 
         Log.d("MYMessage","On Create Called");
+
+        Log.d("MYMessage","This is Line 2");
+
     }
 }
